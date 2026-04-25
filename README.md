@@ -56,7 +56,7 @@ Crucial: Paste the google-services.json file into the app/ directory of the proj
 3. API Configuration (FCM Messaging)
 To enable push notifications between devices, you must link your specific Firebase project ID in the code:
 
-Open the file: app/src/main/java/.../network/SendMessageApi.kt (or your specific path).
+Open the file: app/src/main/java/.../core/api/SendMessageApi.kt (or your specific path).
 
 Locate the Project ID placeholder.
 
